@@ -1,28 +1,223 @@
-### 💫 About Me:
+<div align="center">
 
-🔭 I'm currently working on Industry-level projects
-👯 I'm open to collaborating on Full Stack Development Projects
-🤝 I'm looking for help with my current Data Analysis Project
-🌱 I'm currently learning more about Power BI, Python Libraries, and Advance Java
-💬 Feel Free to ask about the projects
+# Hey there! 👋 I'm Mohit Dhiman
 
-### 🌐 Socials:
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer;AI+%26+Data+Science+Enthusiast;Open+Source+Contributor;Problem+Solver+%26+Tech+Explorer" alt="Typing SVG" />
 
-<a href="https://www.linkedin.com/in/mohit-dhiman-74b7231ab"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://in.pinterest.com/mohitdhoman120/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white" alt="Pinterest" /></a> <a href="mailto:dhimanmohit589@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+### 💻 Building Scalable Applications | 🤖 Exploring AI & ML | 📊 Data Analytics Enthusiast
 
-### 💻 Tech Stack:
+<p>
+  <a href="https://github.com/mohit-dhiman-cs">
+    <img src="https://img.shields.io/github/followers/mohit-dhiman-cs?label=Followers&style=for-the-badge&color=blue" />
+  </a>
+  <a href="https://github.com/mohit-dhiman-cs?tab=repositories">
+    <img src="https://img.shields.io/badge/Projects-Explore-success?style=for-the-badge" />
+  </a>
+  <a href="mailto:dhimanmohit589@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<img src="https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" alt="Python" /> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&logoColor=white" alt="Google Cloud" /> <img src="https://img.shields.io/badge/Render-%46E3B7.svg?logo=render&logoColor=white" alt="Render" /> <img src="https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?logo=bootstrap&logoColor=white" alt="Bootstrap" /> <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white" alt="Flutter" /> <img src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white" alt="Flask" /> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/c%23-%23239120.svg?logo=csharp&logoColor=white" alt="C#" /> <img src="https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white" alt="NodeJS" /> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white" alt="NPM" /> <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React" /> <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?logo=streamlit&logoColor=white" alt="Streamlit" /> <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white" alt="WordPress" /> <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white" alt="TailwindCSS" /> <img src="https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" /> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?logo=sqlite&logoColor=white" alt="SQLite" /> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white" alt="Canva" /> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?logo=Matplotlib&logoColor=black" alt="Matplotlib" /> <img src="https://img.shields.io/badge/numpy-%23013243.svg?logo=numpy&logoColor=white" alt="NumPy" /> <img src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white" alt="Pandas" /> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?logo=plotly&logoColor=white" alt="Plotly" /> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white" alt="PyTorch" /> <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?logo=scipy&logoColor=white" alt="SciPy" /> <img src="https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/gitlab-%23181717.svg?logo=gitlab&logoColor=white" alt="GitLab" /> <img src="https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white" alt="Notion" />
+</div>
 
-### 📊 GitHub Stats:
+---
 
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mohit-dhiman-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Mohit's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhiman-cs&theme=dark&hide_border=false" alt="Mohit's Streak" />
-<br/>
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mohit-dhiman-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+# 🌟 About Me
 
-### ✍️ Random Dev Quote
+🎓 I'm a Computer Science student passionate about creating impactful software and solving real-world problems through technology.
 
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Quote" />
-<br/>
-<img src="https://komarev.com/ghpvc/?username=mohit-dhiman-cs&style=flat-square" alt="Profile Views" />
+💡 My interests include:
+- Full Stack Development
+- Artificial Intelligence & NLP
+- Data Science & Analytics
+- Cloud Computing & DevOps
+- Open Source Contributions
+
+🚀 I enjoy building projects that combine creativity, logic, and practical utility.
+
+📚 Currently improving my:
+- DSA & Problem Solving
+- System Design Fundamentals
+- Advanced React & Backend Development
+- Machine Learning & AI Integration
+
+🎯 Goal:
+To become a highly skilled Software Engineer and build innovative AI-powered products that create real-world impact.
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+## 🌐 Frontend Development
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+</p>
+
+## ⚙️ Backend & APIs
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" />
+</p>
+
+## 🤖 AI, ML & Data Science
+<p>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+</p>
+
+## ☁️ Databases, Cloud & DevOps
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
+
+## 🧰 Tools & Platforms
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## 📌 AI-Based Internship Platform
+🔹 Built a React-based dashboard for managing internships, applications, and analytics.
+
+🔹 Features:
+- Responsive UI
+- User Authentication
+- Dashboard Analytics
+- API Integration
+- Modern React Architecture
+
+---
+
+## 📌 Social Media Network using Graphs
+🔹 Developed a Java + DSA project simulating a social network.
+
+🔹 Features:
+- Account Creation System
+- Friend Recommendation Logic
+- Graph-Based Relationships
+- Linked List Data Storage
+- Unique User ID System
+
+---
+
+## 📌 Speed Racer Game
+🔹 Designed a GUI-based Python racing game using Pygame.
+
+🔹 Features:
+- Real-Time Gameplay
+- Sound Effects & Animation
+- Obstacle System
+- Score Tracking
+- Smooth Controls
+
+---
+
+## 📌 IT Asset Allocation System
+🔹 Created a GUI-based system for managing organizational assets.
+
+🔹 Features:
+- Admin & User Authentication
+- Asset Tracking
+- Database Integration
+- User Management
+- Dashboard Interface
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mohit-dhiman-cs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhiman-cs&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mohit-dhiman-cs&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 Achievements & Certifications
+
+🏅 Built multiple full-stack and AI-based projects
+
+🏅 Experienced in Data Analytics using Power BI & Tableau
+
+🏅 Hands-on knowledge of Cloud & Deployment Platforms
+
+🏅 Active learner in AI, NLP, and Software Development
+
+🏅 Passionate about Open Source & Continuous Learning
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/mohit-dhiman-74b7231ab">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:dhimanmohit589@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/mohit-dhiman-cs">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+# ✨ Developer Philosophy
+
+> “Code is not just about solving problems. It’s about building solutions that create impact.”
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+<img src="https://komarev.com/ghpvc/?username=mohit-dhiman-cs&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
+
+</div>
