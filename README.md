@@ -16,13 +16,13 @@
 
 ### 📊 GitHub Stats:
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohit-dhiman-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Mohit's GitHub stats" />
-<img src="https://nirzak-streak-stats.vercel.app/?user=mohit-dhiman-cs&theme=dark&hide_border=false" alt="Mohit's Streak" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mohit-dhiman-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Mohit's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhiman-cs&theme=dark&hide_border=false" alt="Mohit's Streak" />
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhiman-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mohit-dhiman-cs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 ### ✍️ Random Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Quote" />
 <br/>
-<img src="https://visitcount.itsvg.in/api?id=mohit-dhiman-cs&icon=2&color=0" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=mohit-dhiman-cs&style=flat-square" alt="Profile Views" />
