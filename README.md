@@ -52,9 +52,10 @@ To become a highly skilled Software Engineer and build innovative AI-powered pro
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -65,11 +66,11 @@ To become a highly skilled Software Engineer and build innovative AI-powered pro
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ## ⚙️ Backend & APIs
 <p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -78,6 +79,7 @@ To become a highly skilled Software Engineer and build innovative AI-powered pro
 
 ## 🤖 AI, ML & Data Science
 <p>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
@@ -89,12 +91,13 @@ To become a highly skilled Software Engineer and build innovative AI-powered pro
 
 ## ☁️ Databases, Cloud & DevOps
 <p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
 ## 🧰 Tools & Platforms
@@ -103,60 +106,57 @@ To become a highly skilled Software Engineer and build innovative AI-powered pro
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📌 AI-Based Internship Platform
-🔹 Built a React-based dashboard for managing internships, applications, and analytics.
+## <a href="https://github.com/mohit-dhiman-cs/NetGraph-Enterprise-Grade-Social-Networking-Platform">📌 NetGraph: Enterprise-Grade Social Networking Platform</a>
+🔹 An enterprise-grade social network featuring real-time messaging, intelligent feed recommendations, and graph-based friend suggestions.
 
-🔹 Features:
-- Responsive UI
-- User Authentication
-- Dashboard Analytics
-- API Integration
-- Modern React Architecture
+🔹 **Tech Stack:** Java, Spring Boot, React, Neo4j, PostgreSQL, Redis.
 
----
-
-## 📌 Social Media Network using Graphs
-🔹 Developed a Java + DSA project simulating a social network.
-
-🔹 Features:
-- Account Creation System
-- Friend Recommendation Logic
+🔹 **Features:**
+- Hybrid Database Architecture
 - Graph-Based Relationships
-- Linked List Data Storage
-- Unique User ID System
+- Interactive Social Network Visualization
+- Scalable Modern Networking
 
 ---
 
-## 📌 Speed Racer Game
-🔹 Designed a GUI-based Python racing game using Pygame.
+## <a href="https://github.com/mohit-dhiman-cs/LaunchSignal-AI-Powered-IPO-Performance-Prediction-Platform">📌 LaunchSignal: AI-Powered IPO Prediction Platform</a>
+🔹 An AI-driven forecasting platform that predicts IPO listing performance using machine learning and market sentiment.
 
-🔹 Features:
-- Real-Time Gameplay
-- Sound Effects & Animation
-- Obstacle System
-- Score Tracking
-- Smooth Controls
+🔹 **Tech Stack:** JavaScript, React, Machine Learning.
+
+🔹 **Features:**
+- Machine Learning Predictive Models
+- Market Sentiment & GMP Analysis
+- Financial Indicators Tracking
+- Interactive Analytics Dashboard
 
 ---
 
-## 📌 IT Asset Allocation System
-🔹 Created a GUI-based system for managing organizational assets.
+## <a href="https://github.com/mohit-dhiman-cs/JalRakshak-India-Drinking-Water-Contamination-Intelligence-System">📌 JalRakshak: Water Contamination Intelligence System</a>
+🔹 An advanced machine learning educational dashboard and diagnostic platform designed to safeguard drinking water infrastructure.
 
-🔹 Features:
-- Admin & User Authentication
-- Asset Tracking
-- Database Integration
-- User Management
-- Dashboard Interface
+🔹 **Tech Stack:** Python, Machine Learning.
+
+🔹 **Features:**
+- Interactive ML Dashboard
+- Contamination Diagnostic Tools
+- Data-Driven Water Quality Analytics
+
+---
+
+## <a href="https://github.com/mohit-dhiman-cs/Pesticide-Consumption-Trends-Analysis">📌 Data Analysis & Exploratory Projects</a>
+🔹 Comprehensive data analysis notebooks exploring real-world datasets.
+
+🔹 **Projects:**
+- **[NYPD Data Analysis](https://github.com/mohit-dhiman-cs/NYPD-Data-Analysis)**
+- **[Pesticide Consumption Trends Analysis](https://github.com/mohit-dhiman-cs/Pesticide-Consumption-Trends-Analysis)**
+- **[Speed Racer Game (Python/Pygame)](https://github.com/mohit-dhiman-cs/Speed-Racer)**
 
 ---
 
