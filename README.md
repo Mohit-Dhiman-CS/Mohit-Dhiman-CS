@@ -1,4 +1,4 @@
-```markdown
+```
 <div align="center">
   <h1>Hi there, I'm Mohit Dhiman! 👋</h1>
   <h3>A passionate Full Stack Developer & Data Analyst</h3>
