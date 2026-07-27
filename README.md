@@ -34,9 +34,12 @@
 
   <br/><br/>
 
-  <a href="https://github.com/mohit-dhiman-cs">
-    <img src="https://komarev.com/ghpvc/?username=mohit-dhiman-cs&color=8a2be2&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  </a>
+  <div data-importer="profile-views" align="center">
+    <img data-importer="profile-views" src="https://count.getloli.com/@:mohit-dhiman-cs?theme=love-and-deepspace&padding=7&scale=1&align=top&pixelated=1&darkmode=auto" alt="Profile Views Counter" />
+  </div>
+
+  <br/>
+
   <a href="https://github.com/mohit-dhiman-cs?tab=followers">
     <img src="https://img.shields.io/github/followers/mohit-dhiman-cs?style=flat-square&color=6a0dad&label=FOLLOWERS" alt="Followers Badge" />
   </a>
@@ -237,13 +240,10 @@ NeuralFlow is an event-driven microservices architecture benchmark designed for 
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit-dhiman-cs&show_icons=true&theme=dark&title_color=8a2be2&icon_color=9370db&text_color=c9d1d9&bg_color=0d1117&border_color=4b0082" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhiman-cs&theme=dracula&background=0D1117&border=4B0082&stroke=8A2BE2&ring=9370DB&fire=8A2BE2&currStreakNum=C9D1D9&sideNums=C9D1D9&sideTitle=9370DB&currStreakTitle=9370DB" width="48%" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-dhiman-cs&layout=compact&theme=dark&title_color=8a2be2&text_color=c9d1d9&bg_color=0d1117&border_color=4b0082&langs_count=8" width="60%" alt="Top Languages" />
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/mohit-dhiman-cs/mohit-dhiman-cs/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://raw.githubusercontent.com/mohit-dhiman-cs/mohit-dhiman-cs/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=mohit-dhiman-cs&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 ---
@@ -251,11 +251,7 @@ NeuralFlow is an event-driven microservices architecture benchmark designed for 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://github.com/mohit-dhiman-cs">
-    <img src="https://img.shields.io/badge/GitHub_Trophies-Master_Contributor-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Trophy Badge 1" />
-    <img src="https://img.shields.io/badge/System_Architect-Gold_Tier-4B0082?style=for-the-badge&logo=apachekafka&logoColor=white" alt="GitHub Trophy Badge 2" />
-    <img src="https://img.shields.io/badge/Commits-500%2B_Push-6A0DAD?style=for-the-badge&logo=git&logoColor=white" alt="GitHub Trophy Badge 3" />
-  </a>
+  <img src="https://raw.githubusercontent.com/mohit-dhiman-cs/mohit-dhiman-cs/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
 </div>
 
 ---
@@ -263,15 +259,19 @@ NeuralFlow is an event-driven microservices architecture benchmark designed for 
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohit-dhiman-cs&bg_color=0d1117&color=9370db&line=8a2be2&point=ffffff&area=true&area_color=4b0082&hide_border=false&border_color=4b0082" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://raw.githubusercontent.com/mohit-dhiman-cs/mohit-dhiman-cs/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph" />
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## 🎮 Contribution Snake & Pacman
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/8a2be2/mohit-dhiman-cs" width="100%" alt="Contribution Grid Graph" />
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohit-dhiman-cs/mohit-dhiman-cs/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohit-dhiman-cs/mohit-dhiman-cs/pacman-output/galaga-contribution-graph.svg?game=galaga">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohit-dhiman-cs/mohit-dhiman-cs/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  </picture>
 </div>
 
 ---
