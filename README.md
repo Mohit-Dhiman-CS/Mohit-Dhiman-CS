@@ -1,10 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mohit%20Dhiman&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Full-Stack%20Engineer%20%E2%80%94%20Building%20for%20the%20Indian%20Market&descAlignY=55&descSize=18)
+# 👋 Mohit Dhiman
 
-<a href="https://github.com/mohit-dhiman-cs">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;Building+AI-Powered+Products+for+India;React+%7C+Python+%7C+Flask+%7C+Node.js;Final-Year+CS+Student+%40+LPU%2C+2026" alt="Typing SVG" />
-</a>
+### Full Stack Developer · AI/ML Enthusiast · Final-Year CS Student @ LPU, 2026
 
 <br/>
 
@@ -21,7 +19,6 @@
 <br/><br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohit-dhiman-cs&label=Profile%20Views&color=6D28D9&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/mohit-dhiman-cs?label=Followers&style=for-the-badge&color=8B5CF6)
 ![Stars](https://img.shields.io/github/stars/mohit-dhiman-cs?label=Stars&style=for-the-badge&color=A78BFA)
 
 </div>
@@ -45,19 +42,36 @@ I'm a final-year Computer Science student building full-stack products with an A
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,c" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 
 **Backend & Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=nodejs,flask,spring,postgres,mongodb,redis,neo4j" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" />
 
 **Cloud, DevOps & Tooling**
 <br/>
-<img src="https://skillicons.dev/icons?i=vercel,render,cloudflare,docker,git,githubactions,vscode" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 
 ---
 
@@ -147,10 +161,10 @@ ML-based diagnostic dashboard for drinking water quality, built to cover the ful
 
 <div align="center">
 
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=mohit-dhiman-cs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhiman-cs&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=mohit-dhiman-cs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=mohit-dhiman-cs&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=mohit-dhiman-cs&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhiman-cs&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </div>
 
@@ -185,7 +199,5 @@ open_to:
 <div align="center">
 
 *"Code is not just about solving problems. It's about building solutions that create impact."*
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
