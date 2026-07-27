@@ -238,12 +238,12 @@ NeuralFlow is an event-driven microservices architecture benchmark designed for 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohit-dhiman-cs&show_icons=true&theme=dracula&title_color=8a2be2&icon_color=9370db&text_color=c9d1d9&bg_color=0d1117&border_color=4b0082&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohit-dhiman-cs&show_icons=true&theme=dark&title_color=8a2be2&icon_color=9370db&text_color=c9d1d9&bg_color=0d1117&border_color=4b0082" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohit-dhiman-cs&theme=dracula&background=0D1117&border=4B0082&stroke=8A2BE2&ring=9370DB&fire=8A2BE2&currStreakNum=C9D1D9&sideNums=C9D1D9&sideTitle=9370DB&currStreakTitle=9370DB" width="48%" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohit-dhiman-cs&layout=compact&theme=dracula&title_color=8a2be2&text_color=c9d1d9&bg_color=0d1117&border_color=4b0082&hide_border=false&langs_count=8" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohit-dhiman-cs&layout=compact&theme=dark&title_color=8a2be2&text_color=c9d1d9&bg_color=0d1117&border_color=4b0082&langs_count=8" width="60%" alt="Top Languages" />
 </div>
 
 ---
@@ -251,7 +251,11 @@ NeuralFlow is an event-driven microservices architecture benchmark designed for 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohit-dhiman-cs&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=1&column=6" width="95%" alt="GitHub Trophies" />
+  <a href="https://github.com/mohit-dhiman-cs">
+    <img src="https://img.shields.io/badge/GitHub_Trophies-Master_Contributor-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Trophy Badge 1" />
+    <img src="https://img.shields.io/badge/System_Architect-Gold_Tier-4B0082?style=for-the-badge&logo=apachekafka&logoColor=white" alt="GitHub Trophy Badge 2" />
+    <img src="https://img.shields.io/badge/Commits-500%2B_Push-6A0DAD?style=for-the-badge&logo=git&logoColor=white" alt="GitHub Trophy Badge 3" />
+  </a>
 </div>
 
 ---
@@ -267,7 +271,7 @@ NeuralFlow is an event-driven microservices architecture benchmark designed for 
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mohit-dhiman-cs/mohit-dhiman-cs/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+  <img src="https://ghchart.rshah.org/8a2be2/mohit-dhiman-cs" width="100%" alt="Contribution Grid Graph" />
 </div>
 
 ---
