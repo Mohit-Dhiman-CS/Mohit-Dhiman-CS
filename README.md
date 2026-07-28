@@ -144,10 +144,6 @@ I enjoy collaborating on
 
 ---
 
-# 🛠 Tech Stack
-
-> *(Continues in Part 2)*
-
 <!-- END OF PART 1 -->
 <!-- ========================================================= -->
 <!--                 CONTINUATION OF README                     -->
@@ -335,10 +331,6 @@ I enjoy collaborating on
 </div>
 
 ---
-
-# 🌟 Featured Projects
-
-> *(Continues in Part 3)*
 
 <!-- END OF PART 2 -->
 <!-- ========================================================= -->
@@ -644,16 +636,10 @@ https://github.com/mohit-dhiman-cs/JalRakshak-India-Drinking-Water-Contamination
 ---
 
 <div align="center">
-
-## ⭐ More Featured Projects Coming Below
-
 </div>
 
 ---
 
-# 🚀 Additional Projects
-
-> *(Continues in Part 4)*
 
 <!-- END OF PART 3 -->
 <!-- ========================================================= -->
@@ -1005,10 +991,6 @@ https://github.com/Mohit-Dhiman-CS/Speed-Racer
 | Documentation | Clear technical documentation |
 
 ---
-
-# 💼 Professional Experience
-
-> *(Continues in Part 5)*
 
 <!-- END OF PART 4 -->
 <!-- ========================================================= -->
